@@ -1,0 +1,14 @@
+p{
+  color: red;
+  background-color: green;
+  font-size: 8rem;
+}
+ header{
+  color: pink;
+  background-color: violet;
+ }
+
+ footer{
+  color: turquoise;
+  background-color: blue;
+ }
